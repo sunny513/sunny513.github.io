@@ -1,0 +1,47 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sunnyyy.github.io" resolutions="1x" timestamp="1578576400804">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="untitled-5.css" crc="212756342" ref="untitled-5"/>
+    <file name="untitled-7.css" crc="14031140" ref="untitled-7"/>
+    <file name="untitled-3.css" crc="536562724" ref="untitled-3"/>
+    <file name="untitled-2.css" crc="4026168781" ref="untitled-2"/>
+    <file name="untitled-6.css" crc="253460096" ref="untitled-6"/>
+    <file name="untitled-4.css" crc="3997087812" ref="untitled-4"/>
+    <file name="index.css" crc="4237358583" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="s__48406530.jpg" crc="424878" seo="true" mt="1578549242000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="museutils.js" crc="183364071" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:untitled-2:untitled-3:untitled-4:untitled-5:untitled-6:untitled-7"/>
+  </folder>
+  <folder name="images">
+    <file name="s__48406530.jpg" crc="4008221185" ref="index"/>
+    <file name="c3.jpg" crc="4073479142" ref="untitled-2"/>
+    <file name="h.jpg" crc="4208588225" ref="untitled-2:untitled-4"/>
+    <file name="l1.jpg" crc="408041690" ref="untitled-2"/>
+    <file name="img_5130.jpg" crc="201108215" ref="untitled-2"/>
+    <file name="c2.jpg" crc="337852263" ref="untitled-3"/>
+    <file name="c.jpg" crc="4070556847" ref="untitled-3"/>
+    <file name="c6.jpg" crc="192003958" ref="untitled-3"/>
+    <file name="h3.jpg" crc="3761451573" ref="untitled-4"/>
+    <file name="l2.jpg" crc="4288426375" ref="untitled-5"/>
+    <file name="img_5163.jpg" crc="10989004" ref="untitled-6"/>
+    <file name="img_5234.jpg" crc="3870257671" ref="untitled-6"/>
+    <file name="a3.jpg" crc="4040992108" ref="untitled-7"/>
+    <file name="a.jpg" crc="4170647386" ref="untitled-7"/>
+    <file name="a1.jpg" crc="3839589021" ref="untitled-7"/>
+    <file name="a4.jpg" crc="372790592" ref="untitled-7"/>
+    <file name="aa.jpg" crc="52868889" ref="untitled-7:untitled-2"/>
+  </folder>
+  <file name="index.html" crc="4002841633" seo="true" mt="1578564626336" redirect="true"/>
+  <file name="untitled-2.html" crc="198653865" seo="true" mt="1578576400196" redirect="true"/>
+  <file name="untitled-3.html" crc="234118962" seo="true" mt="1578564867523" redirect="true"/>
+  <file name="untitled-4.html" crc="190249953" seo="true" mt="1578564884898" redirect="true"/>
+  <file name="untitled-5.html" crc="4208051282" seo="true" mt="1578564919754" redirect="true"/>
+  <file name="untitled-6.html" crc="3877103067" seo="true" mt="1578564911965" redirect="true"/>
+  <file name="untitled-7.html" crc="72463494" seo="true" mt="1578576400197" redirect="true"/>
+</manifest>

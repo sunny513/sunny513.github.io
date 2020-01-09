@@ -1,0 +1,102 @@
+.version.untitled_5 /* version checker */
+{
+	color: #00000C;
+	background-color: #AE6776;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 500px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 12px;
+	padding-bottom: 62px;
+	width: 0.01px;
+}
+
+#u385
+{
+	z-index: 10;
+	height: 8px;
+	background-color: #D5BFA4;
+}
+
+#u385-bw
+{
+	z-index: 10;
+	height: 8px;
+}
+
+#u306
+{
+	z-index: 3;
+	width: 676px;
+	height: 510px;
+	margin-left: 142px;
+	margin-top: 74px;
+	position: relative;
+	background: transparent url("../images/l2.jpg") no-repeat left top;
+	background-size: contain;
+}
+
+#u313-6
+{
+	z-index: 4;
+	width: 497px;
+	min-height: 253px;
+	background-color: transparent;
+	letter-spacing: 5px;
+	line-height: 18px;
+	text-align: justify;
+	font-size: 15px;
+	margin-left: 232px;
+	margin-top: 63px;
+	position: relative;
+}
+
+#u305
+{
+	z-index: 2;
+	width: 33px;
+	height: 85px;
+	left: -46px;
+	margin-top: 94px;
+	position: relative;
+}
+
+.ie #u305
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
